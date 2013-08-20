@@ -1,0 +1,52 @@
+footer {
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, .2);
+	padding: 1.221em;
+}
+	
+.container_12 {
+	margin-left: 2.3%;
+	margin-right: 2.3%;
+}
+	
+footer ul {
+	list-style-type: none;
+	display:none;
+	padding-left: 45px;
+}		
+	
+footer li {	
+	padding-bottom: 0.4em;
+}
+	
+footer h3 {
+	line-height: 2em;
+	cursor:pointer;
+}
+
+footer a:hover { 
+	color: #254967;
+}
+		
+footer a {
+	color: #222;
+	font-size: 0.786em;
+	text-shadow: 1px 1px 0px #777;
+}
+		
+footer a.nolink {
+	color: #000;
+	text-shadow: none;
+}
+
+footer a.current {
+	color: #555;
+}
+	
+footer a.current:before {
+	content:"> ";
+}
+		
+.grid_2 h3 {
+	text-align: center;
+}
