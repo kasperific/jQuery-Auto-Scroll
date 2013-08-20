@@ -1,4 +1,4 @@
-portfolio-site
+jQuery Auto Scroll
 ==============
 
-My online portfolio.
+Have hidden content trigger a page scroll upon reveal.
